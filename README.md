@@ -1,8 +1,18 @@
-# node-js-getting-started
+# Mum M TechResume
+This resume is a summary of work experience, skills, and education.
+Click [here](https://tigresslilly.herokuapp.com/) to view the resume.
+### This is a List of things to do:
+1. Finish this page
+2. Create a link of Github on the website
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+<!---
+ [Express 4](http://expressjs.com/).
+(This application supports the [Getting Started with Node on Heroku] 
+(https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.)
+
+
+
 
 ## Running Locally
 
@@ -27,7 +37,7 @@ $ heroku open
 or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
+--->
 ## Documentation
 
 For more information about using Node.js on Heroku, see these Dev Center articles:
